@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>548A South Tower, Faculty of Engine</p>
+    <p>548A South Tower</p>
     <p>Faculty of Engineering</p>
     <p>Shenzhen 518055, P.R. China</p>
 
