@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ghlkm
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ghlkm/ordu
+  - cupermanrose/tau-LevelIndex
+  - SUSTech-CRA/sustech-master-thesis
+  - ghlkm/hmp
+  - ghlkm/parrallel-ea-fuzzy-classifier
+  - ghlkm/cover-ratio-maximization
