@@ -3,10 +3,20 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
-nav: true
+nav: false
 nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+The table below shows my teaching experience as a teaching assistance or a student assistance. I won the Southern University of Science and Technology Excellent Teaching Assistan Award for 2018 and 2019. 
 
-Organize your courses by years, topics, or universities, however you like!
+<table>
+  <tr><td>Time</td><td>Course Name</td></tr>
+  <tr><td>Time</td><td>Course Name</td></tr>
+  <tr><td>Time</td><td>Course Name</td></tr>
+  <tr><td>Time</td><td>Course Name</td></tr>
+  <tr><td>Time</td><td>Course Name</td></tr>
+  <tr><td>Time</td><td>Course Name</td></tr>
+  <tr><td>Time</td><td>Course Name</td></tr>
+</table>
+
+
