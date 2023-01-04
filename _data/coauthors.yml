@@ -32,3 +32,29 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Zhang":
+  - firstname: ["Jiahao", "J."]
+    url: https://github.com/cupermanrose
+
+"Tang":
+  - firstname: ["Bo", "B."]
+    url: https://acm.sustech.edu.cn/btang/
+
+"Yiu":
+  - firstname: ["Man Lung", "M.L."]
+    url: https://www4.comp.polyu.edu.hk/~csmlyiu/
+
+"Yan":
+  - firstname: ["Xiao", "X."]
+    url: https://cse.sustech.edu.cn/faculty/~yanx/
+
+"Li":
+  - firstname: ["Keming", "K."]
+    url: https://ghlkm.github.io/
+
+"Mouratidis"
+  - firstname: ["Kyriakos", "K."]
+    url: http://www.mysmu.edu/faculty/kyriakos/
+
+
