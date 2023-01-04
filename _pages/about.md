@@ -12,7 +12,7 @@ profile:
     <p>548A South Tower</p>
     <p>Faculty of Engineering</p>
     <p>Shenzhen 518055, P.R. China</p>
-    <p>likm2020@sustech.edu.cn</p>
+    <p>likm2020@mail.sustech.edu.cn</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
