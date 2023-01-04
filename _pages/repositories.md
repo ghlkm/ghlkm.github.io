@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: 
 description: These are the seleted repositories I contributed. Feel free to contact me by email if you get problems about them.
-nav: true
+nav: false
 nav_order: 3
 ---
 
