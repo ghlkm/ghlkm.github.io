@@ -5,5 +5,5 @@ description: Quantifying the Competitiveness of a Dataset in Relation to General
 img: assets/img/publication_preview/hmp.JPG
 redirect: /assert/pdf/hmp_VLDBJ.pdf
 importance: 2
-category: ongong
+category: ongoing
 ---

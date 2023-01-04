@@ -5,5 +5,5 @@ description: "Dynamic Graph Storage: An Experimental Survey"
 img: assets/img/publication_preview/graphStorage.JPG
 redirect: /assert/pdf/DynamicGraphStorage.pdf
 importance: 3
-category: ongong
+category: ongoing
 ---
